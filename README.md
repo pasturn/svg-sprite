@@ -1,5 +1,5 @@
-#svg-sprite
-##Init
+# svg-sprite
+## Init
 
 ```
 $ npm install
@@ -10,7 +10,7 @@ devDependencies:
 - gulp-svg-symbols
 - gulp-svgmin (optionial)
 
-##Usage
+## Usage
 You can download the icons from [iconmoon.io](https://icomoon.io/app/#/select) or [iconfont.cn](http://www.iconfont.cn) with .svg,  put those icons to ```/asset/svg/```, and then run the commond:
 ```
 npm run start   //or
